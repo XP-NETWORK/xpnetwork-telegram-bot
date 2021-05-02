@@ -1,0 +1,1 @@
+export const randomId = (length: number) => Math.random().toString(36).substring(length);
